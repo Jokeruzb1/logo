@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+
+.card{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+
+}
+img{
+    width: 400px;
+    border: 3px solid blue;
+    border-radius: 50% ;
+}
+h1{
+    color: red;
+    font-family: 'Rubik Gemstones', sans-serif;
+    font-size: 55px;
+}
+.bi{
+    font-size: 35px;
+    width: 500px;
+}
+.bi-telegram{
+color: rgb(0, 162, 255);
+}
+.bi-youtube{
+    color: red;
+}
+.bi-twitter{
+    color: blue;
+}
+.bi-instagram{
+    color: greenyellow;
+}
+.bi-globe{
+color: rgb(255, 0, 128);
+}
